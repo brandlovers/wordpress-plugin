@@ -22,6 +22,14 @@ class BLCommentsAdmin
             'place' => 'element',
         ],
         [
+            'id' => 'data-comment',
+            'name' => 'Insert comment',
+            'type' => 'text',
+            'input' => 'checkbox',
+            'place' => 'element',
+            'value' => '1',
+        ],
+        [
             'id' => 'data-show-profile-face',
             'name' => 'Display profile face',
             'type' => 'text',
