@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: BL Comments
+ * Plugin Name: Brand Lovers Plugin
  * Plugin URI: http://brandlovers.com/
  * Description: Display comments of Brandlovers platform in your site
  * Version: 1.0

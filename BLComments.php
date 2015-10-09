@@ -16,7 +16,7 @@ class BLComments
      * @access private
      */
     private $scriptAttributes = [
-        'src' => 'http://api.brandlovers.com/comments.js',
+        'src' => 'http://api.brandlovers.com/v1/comments.js',
         'data-name' => 'bl-script',
     ];
 
